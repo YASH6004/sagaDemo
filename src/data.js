@@ -1,0 +1,53 @@
+export default data = [
+    {
+      id: 1,
+      // Img: require('../Assets/BoilChicken.png'),
+      title: 'Boiler Chicken',
+      qty: '1kg',
+      price: '4.99',
+      color: '#234455',
+    },
+    {
+      id: 2,
+      // Img: require('../Assets/pngfuel1.png'),
+      title: 'sprite',
+      qty: '355ml',
+      price: 1.99,
+      color: 'red',
+    },
+    {
+      id: 3,
+      // Img: require('../Assets/pngfuel.png'),
+      title: 'Diet Coke',
+      qty: '355ml',
+      price: 1.339,
+    },
+    {
+        id: 8,
+        // Img: require('../Assets/ginger.png'),
+        title: 'Ginger',
+        qty: '200gm',
+        price: 2.99,
+      },
+    {
+        id: 5,
+        // Img: require('../Assets/pepper.png'),
+        title: 'Bell Pepper Red',
+        qty: '1kg',
+        price: 4.99,
+      },
+      {
+          id: 6,
+          // Img: require('../Assets/eggs.png'),
+          title: 'Egg Chicken Red',
+          qty: '4pcs',
+          price: 1.99,
+        },
+        {
+            id: 7,
+            // Img: require('../Assets/OrganicBanana.png'),
+            title: 'Organic Bananas',
+            qty: '12Kg',
+            price: 3.01,
+          },
+  ];
